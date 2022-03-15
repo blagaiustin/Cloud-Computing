@@ -1,0 +1,10 @@
+{
+    "employees": {
+        "employee": {
+            "age": "34",
+            "id": "1",
+            "name": "Dave",
+            "role": "Sale Assistant"
+        }
+    }
+}
